@@ -1,0 +1,8 @@
+<html>
+<script>
+alert("welcome!");
+var Yourname=prompt("what is ur name");
+document.write("your name " +Yourname);
+console.log("programme completed");
+</script>
+</html>
